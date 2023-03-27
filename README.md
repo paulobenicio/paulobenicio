@@ -3,5 +3,4 @@
 - 🔭 I’m currently working on *Financial Data Analyst*
 - 🌱 I’m currently learning *Python*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobenicio)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobenicio&count_private=true)
